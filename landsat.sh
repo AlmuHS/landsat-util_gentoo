@@ -1,4 +1,4 @@
-#/bin/sh
+#!/bin/sh
 
 #Copyright 2016 Almudena Garcia Jurado-Centurion
 
