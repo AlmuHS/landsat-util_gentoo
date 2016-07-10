@@ -3,7 +3,7 @@
 #This is a script to install landsat-util in gentoo with pip utils, which must be execute as superuser
 #It can has many errors, so you can use under your responsability
 
-#Configure files to add testing libraries support
+#Configure portage to add testing libraries support
 echo ">=sci-libs/gdal-2.0 ~amd64" >> /etc/portage/package.accept_keywords
 echo ">=dev-python/cython-0.23 ~amd64" >> /etc/portage/package.accept_keywords
 
