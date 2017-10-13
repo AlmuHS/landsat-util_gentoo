@@ -21,5 +21,5 @@
 #It can has many errors, so you can use under your responsability
 
 apt-get update
-apt-get install python-pip python-numpy python-scipy libgdal-dev libatlas-base-dev gfortran libfreetype6-dev
+apt-get install python-pip python-numpy python-scipy libgdal-dev libatlas-base-dev gfortran libfreetype6-dev libgnutls28-dev
 pip install landsat-util
